@@ -18,7 +18,7 @@ The server exposes five tools over MCP 2026-07-28:
 
 The MCP protocol, server, transport, process, JSON, and HTTP implementations are provided by [`pooriayousefi/mcpxx`](https://github.com/pooriayousefi/mcpxx), included as a pinned Git submodule at `external/mcpxx`.
 
-The submodule is pinned to commit `0ec0e6ac04acc46fb7c6160f1a16a2ead19ee4a0`. This keeps builds reproducible and avoids copying shared MCP implementation files into each server repository.
+The submodule is pinned to commit `8d3e971072c263dd5132c5b48e44c15926d21190`. This keeps builds reproducible and avoids copying shared MCP implementation files into each server repository.
 
 ## Requirements
 
